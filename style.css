@@ -1,0 +1,61 @@
+h1{
+    color:red ;
+background-color: blue;
+border: 6px  solid  red   ;
+
+
+
+
+
+}
+h2{
+    color: rgb(77, 38, 112);
+    background-color: crimson;
+}
+
+button{
+width:180px ;
+height:40px ;
+font-size:20px ;
+font-weight: 900;
+background-color: blue;
+color:chartreuse;
+transition: 0.7s;
+
+
+
+}
+button:hover{
+color: black;
+background-color: darkmagenta;
+width:300px ;
+height: 60px;
+transition:0.7s ;
+
+
+
+
+
+}
+h1:hover{
+color:aqua;
+background-color: brown;
+border:10px solid cornflowerblue;
+height: 60px;
+transition: 3s;
+border:none ;
+
+}
+
+button:active{
+color: aqua;
+background-color: brown;
+}
+
+
+
+
+
+
+
+
